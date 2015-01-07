@@ -8,3 +8,7 @@
 build/
 project.xcworkspace/
 xcuserdata/
+*.o
+*.lo
+libmonit/
+*~
